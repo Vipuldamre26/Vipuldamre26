@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/Vipuldamre26/portfolioo)
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipuldamre26](https://github.com/Vipuldamre26)
 
