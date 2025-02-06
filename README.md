@@ -6,17 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipuldamre26&label=Profile%20views&color=0e75b6&style=flat" alt="vipuldamre26" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://vipulll-portfolio.vercel.app/)
 
-- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipuldamre26](https://github.com/Vipuldamre26)
 
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **vipuldamre06@gmail.com**
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1bHMO-RimsqB-dEx8TlPk3y6k_XdnOVM3/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny😁**
 
